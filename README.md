@@ -1,1 +1,1 @@
-# Burger-Sequelize
+# Burger-Factory
